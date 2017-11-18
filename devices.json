@@ -107,6 +107,7 @@
   {  "model": "kltekdi", "oem": "Samsung", "name": "Galaxy S5 (AU)"},
   {  "model": "kltekor", "oem": "Samsung", "name": "Galaxy S5 (Korea)"},
   {  "model": "ks01lte", "oem": "Samsung", "name": "Galaxy S4 LTE-A"},
+  {  "model": "kuntao", "oem": "Lenovo", "name": "P2"},
   {  "model": "lentislte", "oem": "Samsung", "name": "Galaxy S5 LTE-A"},
   {  "model": "lettuce", "oem": "YU", "name": "Yuphoria"},
   {  "model": "libra", "oem": "Xiaomi", "name": "Mi 4c"},
